@@ -4,7 +4,6 @@ Saya Qurrotu Ainii dengan NIM 2105885 mengerjakan Latihan Praktikum 9 DPBO dalam
 ## Alur Program
 1. Program akan menampilkan halaman utama ketika program dijalankan. Pada halaman tersebut terdapat dua button yaitu exit (menutup program) dan masuk (membuka page Daftar)<br>
 2. Pada page Daftar, terdapat list daftar beserta button detail. Selain itu terdapat button Back yang akan mengembalikan ke page utama
-<br>
 3. Ketika menekan tombol Detail, maka akan menampilkan page baru yang berisi detail informasi dari data yang dipilih. Pada page tsb juga terdapat button Close yang mana akan menutup page tersebut<br>
 
 ## Dokumentasi
